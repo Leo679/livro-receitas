@@ -1,4 +1,4 @@
-	# Strogonoff de Carne :meat_on_bone:
+# Strogonoff de Frango :chicken:
 
 ### Ingredientes
 
